@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Frank Lopez linkedin: https://www.linkedin.com/in/frank-lopez-b99201169/
+Main-Class: Bienvenida
+X-COMMENT: Mi Primer Programa
